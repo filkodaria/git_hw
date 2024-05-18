@@ -1,0 +1,8 @@
+{
+firstName: 'Daria',
+lastName: 'Filko',
+age: undefined,
+pets: 1,
+salary: undefined,
+}
+
