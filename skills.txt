@@ -1,0 +1,7 @@
+{
+gitTool: 'GitHub',
+programmingLanguages: ['JavaScript', 'TypeScript'],
+aqaTools: ['WebdriverIO', 'Cucumber', 'Playwright'],
+additionalSkills: ['CSS selectors', 'XPath locators', 'API testing', 'CI/CD integration']
+} 
+

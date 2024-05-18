@@ -1,0 +1,8 @@
+{
+favoriteMovie: undefined,
+favoriteSeries: 'Blacklist',
+favoriteFood: 'grilled seafood',
+favoriteSeason: 'spring',
+dreamCountry: 'Switzerland'
+} 
+
