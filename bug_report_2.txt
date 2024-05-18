@@ -1,0 +1,15 @@
+Title: [Registration form] Input "Username" doesn't match requirements.
+
+Summary: Input "Username" validates with 22 chars in Registration form.
+
+STR:
+ 1. follow the link "https://anatoly-karpovich.github.io/demo-login-form/".
+ 2. press on the Register button.
+ 3. enter value "DariaDariaDariaDariaDa" into Username input field.
+ 4. enter value "123456Da" into Password input field.
+ 5. press on the Register button.
+
+Expected result: Form doesn't validate. User isn't registered into the system.
+
+Actual result: Form validates. Success message is displaying.
+
